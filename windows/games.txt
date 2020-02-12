@@ -1,0 +1,9 @@
+### Drivers
+Logitech-G-Hub  # https://support.logi.com/hc/en-001/articles/360025298133
+
+### Game Launchers
+Steam           # https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701
+Minecraft       # https://www.minecraft.net/en-us/download
+
+### Utilities
+Discord         # https://discordapp.com/
