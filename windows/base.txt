@@ -1,0 +1,15 @@
+### Base
+Firefox          # https://www.mozilla.org/en-US/firefox/new/
+StandardNotes    # https://standardnotes.org/
+ActivityWatch    # https://activitywatch.net/
+Keybase          # https://keybase.io/download
+
+### Utilities
+7zip             # https://www.7-zip.org/
+Rufus            # https://rufus.ie/ (install appx version)
+WindowsTerminal  # https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701
+
+### Media
+vlc              # https://www.videolan.org/vlc/index.html
+Spotify          # https://www.microsoft.com/en-us/p/spotify-music/9ncbcszsjrsb
+Netflix          # https://www.microsoft.com/en-us/p/netflix/9wzdncrfj3tj
