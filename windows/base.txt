@@ -9,8 +9,12 @@ Keybase          # https://keybase.io/download
 Rufus            # https://rufus.ie/ (install appx version)
 WindowsTerminal  # https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701
 AquaSnapPro      # https://www.nurgo-software.com/pricing/aquasnap
+Deluge           # https://dev.deluge-torrent.org/wiki/Download
 
 ### Media
 vlc              # https://www.videolan.org/vlc/index.html
 Spotify          # https://www.microsoft.com/en-us/p/spotify-music/9ncbcszsjrsb
 Netflix          # https://www.microsoft.com/en-us/p/netflix/9wzdncrfj3tj
+
+### Security
+ProtonVPN        # https://protonvpn.com/download/
