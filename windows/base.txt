@@ -8,6 +8,7 @@ Keybase          # https://keybase.io/download
 7zip             # https://www.7-zip.org/
 Rufus            # https://rufus.ie/ (install appx version)
 WindowsTerminal  # https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701
+AquaSnapPro      # https://www.nurgo-software.com/pricing/aquasnap
 
 ### Media
 vlc              # https://www.videolan.org/vlc/index.html
