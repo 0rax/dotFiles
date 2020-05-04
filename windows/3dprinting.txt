@@ -1,0 +1,6 @@
+### Media Editor
+AffinityDesigner   # https://affinity.serif.com/en-gb/designer/
+AutodeskFusion360  # https://www.autodesk.com/products/fusion-360/students-teachers-educators
+
+### Slicer
+PrusaSlicer        # https://www.prusa3d.com/drivers/
