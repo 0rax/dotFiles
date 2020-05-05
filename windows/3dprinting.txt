@@ -1,6 +1,11 @@
 ### Media Editor
 AffinityDesigner   # https://affinity.serif.com/en-gb/designer/
+AffinityPhoto      # https://affinity.serif.com/en-gb/photo/
+
+### Model Viewer/Editor
 AutodeskFusion360  # https://www.autodesk.com/products/fusion-360/students-teachers-educators
+openscad           # https://www.openscad.org/
+fstl               # https://github.com/mkeeter/fstl/releases
 
 ### Slicer
 PrusaSlicer        # https://www.prusa3d.com/drivers/
