@@ -3,6 +3,7 @@ Firefox          # https://www.mozilla.org/en-US/firefox/new/
 StandardNotes    # https://standardnotes.org/
 ActivityWatch    # https://activitywatch.net/
 Keybase          # https://keybase.io/download
+WinCompose       # https://github.com/samhocevar/wincompose
 
 ### Utilities
 7zip             # https://www.7-zip.org/
